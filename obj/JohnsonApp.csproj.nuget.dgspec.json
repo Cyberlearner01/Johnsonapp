@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/boluiyapo/Desktop/Projects/Webapp/Deploying-and-Managing-a-Scalable-Secure-Web-Application-with-Azure-App-Service/JohnsonApp/JohnsonApp.csproj": {}
+    "/Users/boluiyapo/Desktop/Projects/Scalable-Web-App-on-Azure-App-Service/Johnsonapp/JohnsonApp.csproj": {}
   },
   "projects": {
-    "/Users/boluiyapo/Desktop/Projects/Webapp/Deploying-and-Managing-a-Scalable-Secure-Web-Application-with-Azure-App-Service/JohnsonApp/JohnsonApp.csproj": {
+    "/Users/boluiyapo/Desktop/Projects/Scalable-Web-App-on-Azure-App-Service/Johnsonapp/JohnsonApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boluiyapo/Desktop/Projects/Webapp/Deploying-and-Managing-a-Scalable-Secure-Web-Application-with-Azure-App-Service/JohnsonApp/JohnsonApp.csproj",
+        "projectUniqueName": "/Users/boluiyapo/Desktop/Projects/Scalable-Web-App-on-Azure-App-Service/Johnsonapp/JohnsonApp.csproj",
         "projectName": "JohnsonApp",
-        "projectPath": "/Users/boluiyapo/Desktop/Projects/Webapp/Deploying-and-Managing-a-Scalable-Secure-Web-Application-with-Azure-App-Service/JohnsonApp/JohnsonApp.csproj",
+        "projectPath": "/Users/boluiyapo/Desktop/Projects/Scalable-Web-App-on-Azure-App-Service/Johnsonapp/JohnsonApp.csproj",
         "packagesPath": "/Users/boluiyapo/.nuget/packages/",
-        "outputPath": "/Users/boluiyapo/Desktop/Projects/Webapp/Deploying-and-Managing-a-Scalable-Secure-Web-Application-with-Azure-App-Service/JohnsonApp/obj/",
+        "outputPath": "/Users/boluiyapo/Desktop/Projects/Scalable-Web-App-on-Azure-App-Service/Johnsonapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boluiyapo/.nuget/NuGet/NuGet.Config"
