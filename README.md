@@ -16,7 +16,8 @@ It demonstrates best practices such as custom domains, SSL/TLS, monitoring, disa
 - **Frontend & Backend**: Hosted on Azure App Service  
 - **Deployment**: GitHub Actions CI/CD workflow  
 - **Monitoring**: Azure Monitor & Application Insights  
-- **Backup/Recovery**: Azure Backup configured  
+- **Protection**: Azure FrontDoor with WAF to ptotect the webapp from common web attacks
+- **Autoscaling**: Autoscaling rule based on HTTP request count
 
 ## How to Deploy  
 1. Clone the repository  
@@ -27,7 +28,6 @@ It demonstrates best practices such as custom domains, SSL/TLS, monitoring, disa
 ## Future Improvements  
 - Enable Zone Redundant App Service Plan  
 - Add Azure Key Vault for secrets management  
-- Expand autoscaling rules based on HTTP request count  
 
 ## Author  
 Johnson – Azure-Certified Cloud Specialist  
